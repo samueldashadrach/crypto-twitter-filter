@@ -1,6 +1,6 @@
 # crypto-twitter-filter
 
-This is a simple chrome script to delete unhelpful tweets and improve your scrolling experience.
+This is a simple browser script to delete unhelpful tweets and improve your scrolling experience.
 
 ## How to use
 
