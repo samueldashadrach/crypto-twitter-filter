@@ -1,5 +1,7 @@
 # crypto-twitter-filter
 
+This is a simple chrome script to delete unhelpful tweets and improve your scrolling experience.
+
 ## How to use
 
 Install violentmonkey extension in your browser.
