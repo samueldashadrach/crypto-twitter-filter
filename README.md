@@ -4,7 +4,7 @@
 
 Install violentmonkey extension in your browser.
 
-Create new script and copy-paste this script.
+Create new script and copy-paste `main.js`.
 
 Open twitter.com. Confirm that all tweets containing the keyword "the" are being deleted.
 
