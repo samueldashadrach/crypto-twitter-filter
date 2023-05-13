@@ -1,10 +1,10 @@
 # crypto-twitter-filter
 
-This is a simple browser script to delete unhelpful tweets and improve your scrolling experience.
+This is a simple browser userscript to delete unhelpful tweets and improve your scrolling experience.
 
 ## How to use
 
-Install violentmonkey extension in your browser.
+Install violentmonkey extension in your browser. Violentmonkey lets you inject arbitrary js code into any webpage you browse.
 
 Create new script and copy-paste `main.js`.
 
